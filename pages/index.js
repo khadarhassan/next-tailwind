@@ -10,7 +10,7 @@ export default function Home() {
 
       <main className="container mx-auto px-6">
         <h1 className="text-2xl text-center font-bold text-blue-700 py-20">
-          Next.js + TailwindCSS setup
+          Next.js + TailwindCSS setup 💻
         </h1>
       </main>
     </div>
